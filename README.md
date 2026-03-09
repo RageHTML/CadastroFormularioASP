@@ -1,4 +1,4 @@
-# ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white) Cadastro Formulário ASP.NET Core
+# ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deyvid%20Martins-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvid-martins/) Cadastro Formulário ASP.NET Core
 
 ## Sobre este projeto
 

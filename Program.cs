@@ -9,7 +9,7 @@ app.MapPost("/cadastro", (HttpRequest request) =>
     int telefone = int.Parse(request.Form["telefone_usuario"]);
     int idade = int.Parse(request.Form["idade_usuario"]);
 
-    return $"Nome: {nome} Idade: {idade}";
+    return $"Nome: {nome} Telefone: {telefone} Idade: {idade}";
 });
 
 app.Run();
